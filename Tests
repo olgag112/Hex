@@ -1,0 +1,25 @@
+       ---
+    --<   >--
+ --< b >-<   >--
+< b >-< r >-<   >
+ --< r >-<   >--
+    --< r >--
+       ---
+BOARD_SIZE
+
+PAWNS_NUMBER
+
+IS_BOARD_CORRECT
+
+IS_GAME_OVER
+
+
+correct output:
+
+3
+
+5
+
+YES
+
+NO
