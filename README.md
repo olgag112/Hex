@@ -1,4 +1,4 @@
-This project is an implementation of Hex game, developed during studies as an assignment. Code is written in C++ language and no 
+This project is an implementation of Hex game, developed during studies as an assignment. Code is written in C++ language.
 
 Rules of the game are as follows:
 The game is played by two players (red and blue).
